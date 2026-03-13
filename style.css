@@ -1,23 +1,11 @@
-#cabecalho {
-    width: 100%;
-    position:fixed;
-    top: 0%;
-    padding: 10px;
-    background-color: rgb(66, 86, 128);
-    text-align: center;
-    color: white;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
 body {
     background-color: azure;
-    margin-top: 100px;
 }
 
-.caixa{
-    padding: 20px;
+.caixa {
+    padding: 50px;
     margin: 20px;
-    background-color: rgb(113, 140, 228);
+    background-color: rgb(242, 255, 127);
 
 }
 
@@ -298,14 +286,8 @@ body {
 
 
 
-<!--SERENNA-->
-.exemplo-block div{
-display: block;
-}
 
-.exemplo-inline div{
-display: inline;
-}
+
 
 
 
