@@ -11,12 +11,13 @@
 
 body {
     background-color: azure;
+    margin-top: 100px;
 }
 
 .caixa{
     padding: 20px;
     margin: 20px;
-    background-color: rgb(242, 255, 127);
+    background-color: rgb(113, 140, 228);
 
 }
 
@@ -297,7 +298,10 @@ body {
 
 
 
-
+<!--SERENNA-->
+.exemplo-block div{
+display: block;
+}
 
 
 
